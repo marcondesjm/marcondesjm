@@ -7,7 +7,7 @@
 
 <img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
-### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesjm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesjm&layout=compact&langs_count=6&theme=tokyonight"/>
  

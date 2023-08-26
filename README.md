@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao perfil do MARCONDES JORGE MACHADO 😁
 ### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesjm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesjm&layout=compact&langs_count=6&theme=tokyonight"/>
+ 
+ 
  <div>
 
   ## <b>Sobre mim</b>
@@ -12,8 +16,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  <b>- Acessibilidade</b> <br />
  <b>- CSS/SVG Motion Design</b> _(svg animado ao lado, eu que fiz)_ 👉
    <a href="https://github.com/marcondesjm">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesjm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesjm&layout=compact&langs_count=6&theme=tokyonight"/>
+ 
 ### <b>UI Design</b>
  <b>- Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
  <b>- Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />

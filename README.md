@@ -1,4 +1,4 @@
-[![Marcondes Machado](/img/banner-02.png)](https://marcondesjm.github.io/portfolio)
+[![Marcondes Machado](./img/banner-03.png)](https://marcondesjm.github.io/portfolio)
 
 # 👋 <b>[Marcondes Machado 🡽](https://www.linkedin.com/in/marcondes-machado-29761823b/)</b>
 ### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>

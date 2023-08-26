@@ -3,15 +3,8 @@
 # 👋 <b>[Marcondes Machado 🡽](https://www.linkedin.com/in/marcondes-machado-29761823b/)</b>
 ### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
 <br />
-
-
-
-
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesjm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesjm&layout=compact&langs_count=6&theme=tokyonight"/>
- 
- 
  <div>
 
   ## <b>Sobre mim</b>

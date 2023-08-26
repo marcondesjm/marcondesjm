@@ -1,11 +1,44 @@
 ## Bem-vindo(a) ao perfil do MARCONDES JORGE MACHADO 😁
-
+### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
  <div>
+
+  ## <b>Sobre mim</b>
+Sou encantador de usuários e facilmente encantável, <br />
+desenvolvi e entreguei projetos como <br />
+landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
+### <b>Front-end</b>
+ <b>- HTML Semântico</b> <br />
+ <b>- SEO Otimizado</b> | Google Analytics 4 <br />
+ <b>- Acessibilidade</b> <br />
+ <b>- CSS/SVG Motion Design</b> _(svg animado ao lado, eu que fiz)_ 👉
    <a href="https://github.com/marcondesjm">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesjm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesjm&layout=compact&langs_count=6&theme=tokyonight"/>
+### <b>UI Design</b>
+ <b>- Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
+ <b>- Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
+ <b>- Prototipação:</b> Protótipos interativos. <br />
+ <b>- Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens <br />
+</div>
+
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+  
+  ![HTML](./img/html.svg) &nbsp;
+  ![CSS](./img/css.svg) &nbsp;
+  ![SASS](./img/sass.svg) &nbsp;
+  ![Bootstrap](./img/bootstrap.svg) &nbsp;
+  ![JS](./img/js.svg) &nbsp;
+  ![JS](./img/react.svg) &nbsp;
+  ![JS](./img/ts.svg) &nbsp;
+  ![Git](./img/git.svg) &nbsp;
+  ![Github](./img/github.svg) &nbsp;
+  ![VSCode](./img/vscode.svg) &nbsp;
+  ![Figma](./img/figma.svg) &nbsp;
 
 </div>
+<br />
+
+<div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

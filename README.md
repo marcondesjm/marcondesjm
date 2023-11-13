@@ -19,11 +19,9 @@
  HTML - CSS - JavaScript - React - Node.js Axios Nodemon Git GitHub PostgreSQL MongoDB Express.js Insomnia Vercel 👉
    <a href="https://github.com/marcondesjm">
  
-### <b>UI Design</b>
- <b>- Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
- <b>- Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
- <b>- Prototipação:</b> Protótipos interativos. <br />
- <b>- Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens <br />
+### <b> Estou aprendendo / Currently learning:
+</b>
+ React - Native - TypeScript - Angular - Java <br />
 </div>
 
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>

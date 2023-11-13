@@ -30,8 +30,7 @@ Português / Portuguese
 Inglês intermediario/ Intermediary
 
 </b>
- React - Native - TypeScript - Angular - Java <br />
-</div>
+
 
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
   

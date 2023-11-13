@@ -19,7 +19,16 @@
  HTML - CSS - JavaScript - React - Node.js Axios Nodemon Git GitHub PostgreSQL MongoDB Express.js Insomnia Vercel 👉
    <a href="https://github.com/marcondesjm">
  
-### <b> Estou aprendendo / Currently learning:
+### <b> 👩🏻‍🎓 Estou aprendendo / Currently learning:
+</b>
+ React - Native - TypeScript - Angular - Java <br />
+</div>
+
+### <b> 🔠 Idiomas / Languages::
+</b>
+Português / Portuguese
+Inglês intermediario/ Intermediary
+
 </b>
  React - Native - TypeScript - Angular - Java <br />
 </div>

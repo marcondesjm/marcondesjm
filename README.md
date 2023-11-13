@@ -1,3 +1,6 @@
+✨ Olá! Sou um Desenvolvedor Full Stack de 45 anos nascido na cidade de Florianópolis, atualmente residindo em Palhoça, em Santa Catarina. Levo o "Hello World" a sério demais e meu sonho é viajar o mundo através da programação.
+
+✨ Hi! I'm a 45-year-old Full-Stack Developer, born and raised in Santa Catarina, currently based at Palhoça, a city in northeastern Brazil. I take this "Hello World" thing way too seriously, so my dream is to travel the world through programming.
 [![Marcondes Machado](./img/banner-04.png)](https://marcondesjm.github.io/portfolio)
 
 # 👋 <b>[Marcondes Machado 🡽](https://www.linkedin.com/in/marcondes-machado-29761823b/)</b>

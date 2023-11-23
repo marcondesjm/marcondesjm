@@ -13,7 +13,7 @@
   ## <b>Sobre mim</b>
 ✨ Olá! Sou um Desenvolvedor Full Stack de 45 anos nascido na cidade de Florianópolis, atualmente residindo em Palhoça, em Santa Catarina. Levo o "Hello World" a sério demais e meu sonho é viajar o mundo através da programação.
 
-✨ Hi! I'm a 45-year-old Full-Stack Developer, born and raised in Santa Catarina, currently based at Palhoça, a city in northeastern Brazil. I take this "Hello World" thing way too seriously, so my dream is to travel the world through programming.</b>
+✨ Hello! I am a 45-year-old Full Stack Developer born in the city of Florianópolis, currently residing in Palhoça, in Santa Catarina. I take "Hello World" very seriously and my dream is to travel the world through programming.</b>
 
 ### <b> Minhas habilidades / My skills:</b>
  HTML - CSS - JavaScript - React - Node.js Axios Nodemon Git GitHub PostgreSQL MongoDB Express.js Insomnia Vercel 👉

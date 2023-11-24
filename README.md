@@ -1,67 +1,55 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Marcondes Machado](./img/banner-05.png)](https://marcondesjm.github.io/portfolio)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Fernando+Dias;Desenvolvedor+Front-End;Seja+bem+vindo!+)](https://git.io/typing-svg)
 
-# 👋 <b>[Marcondes Machado 🡽](https://www.linkedin.com/in/marcondes-machado)</b>
-### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
-<br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcondesjm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcondesjm&layout=compact&langs_count=6&theme=tokyonight"/>
-
-   <img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
-
-
-  ## <b>Sobre mim</b>
-✨ Olá! Sou um Desenvolvedor Full Stack de 45 anos nascido na cidade de Florianópolis, atualmente residindo em Palhoça, em Santa Catarina. Levo o "Hello World" a sério demais e meu sonho é viajar o mundo através da programação.
-
-✨ Hello! I am a 45-year-old Full Stack Developer born in the city of Florianópolis, currently residing in Palhoça, in Santa Catarina. I take "Hello World" very seriously and my dream is to travel the world through programming.</b>
-
-### <b> Minhas habilidades / My skills:</b>
- HTML - CSS - JavaScript - React - Node.js Axios Nodemon Git GitHub PostgreSQL MongoDB Express.js Insomnia Vercel 👉
-   <a href="https://github.com/marcondesjm">
- 
-### <b> 👩🏻‍🎓 Estou aprendendo / Currently learning:
-</b>
- React - Native - TypeScript - Angular - Java <br />
-</div>
-
-### <b> 🔠 Idiomas / Languages::
-</b>
-Português / Portuguese
-Inglês intermediario/ Intermediary
-
-</b>
-
-
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-  
-  ![HTML](./img/html.svg) &nbsp;
-  ![CSS](./img/css.svg) &nbsp;
-  ![SASS](./img/sass.svg) &nbsp;
-  ![Bootstrap](./img/bootstrap.svg) &nbsp;
-  ![JS](./img/js.svg) &nbsp;
-  ![JS](./img/react.svg) &nbsp;
-  ![JS](./img/ts.svg) &nbsp;
-  ![Git](./img/git.svg) &nbsp;
-  ![Github](./img/github.svg) &nbsp;
-  ![VSCode](./img/vscode.svg) &nbsp;
-  ![Figma](./img/figma.svg) &nbsp;
-
-</div>
-<br />
-
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+<div align="center"> 
+<a href = "mailto:marcondes.machado.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcondes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
  <br>
- 
-  ### Pra saber mais sobre eu!  Me segue nas redes abaixo!
- 
-<div> 
- <a href = "mailto:marcondes.machado.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcondes-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)   
+
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+</p>
+<br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandoDias-dev&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=41E1CF&text_color=c9d1d9&bg_color=0d1117" alt="Marcondes J. Machado github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDias-dev&layout=compact&hide_border=true&title_color=4169E1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+<br>
+
+### Minhas skills:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git," />
+</div>
+<br/>
+
+### Estudando neste momento:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mongodb,nodejs,typescript,express," />
+</div>
+<br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FernandoDias-dev&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+<div align="center">
+<br><p align="centre"><b>contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandoDias-dev}/count.svg" /></p> 
+<br>
+</div>
+<br>
+
+<div align="center">
+  <h2>Minhas contribuições</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
